@@ -1,0 +1,7 @@
+# Site settings
+title: "sami suteria"
+description: "random thoughts and projects"
+
+# Build settings
+permalink: pretty
+highlighter: pygments
