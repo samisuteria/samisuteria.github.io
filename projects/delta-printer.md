@@ -5,8 +5,36 @@ layout: default
 
 # Delta 3D Printer
 
-This 3D printer is based on the [design](http://www.openbuilds.com/builds/delta-six.476/) from Sage on OpenBuilds. Some design changes were made based on access to tools. This design is based on using OpenBuilds 20x40mm V-Slot aluminum extrusions. This has the benefit of not needing to attach an external linear rail to standard 2020 extrusions.
+This 3D printer is based on the [design](http://www.openbuilds.com/builds/delta-six.476/) from Sage on OpenBuilds. Some design changes were made based on access to tools. This design is based on using OpenBuilds 20x40mm V-Slot aluminum extrusions. 
 
+## Build of Materials
+
+### Hardware
+
+| Qty | Price | Part Name | Vendor |
+|:----|:------|:----------|:-------|
+| 3x  | $0.80 | Nylon Lock Nuts - M3 5 Pack | Home Depot |
+| 2x  | $0.75 | Hex Nuts - M3 5 Pack | Home Depot |
+{: class="table table-bordered"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 ## Things to research
 
 - Traxxas ball joints
@@ -85,7 +113,7 @@ This 3D printer is based on the [design](http://www.openbuilds.com/builds/delta-
 | Open Builds| $0            | Initial frame order - free shipping weekend
 | Haydn Huntly | $4x         | $4 flat shipping anywhere in the US
 {: class="table table-bordered"}
-
+-->
 
 
 
