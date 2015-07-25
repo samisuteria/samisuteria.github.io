@@ -20,7 +20,10 @@ This 3D printer is based on the [design](http://www.openbuilds.com/builds/delta-
 
 ## Setup 
 
-Connect everything to the RAMPS 1.4 board [Wiring Diagram](http://reprap.org/mediawiki/images/6/6d/Rampswire14.svg). Then load [Marlin](https://github.com/MarlinFirmware/Marlin) (currently 1.0.2) on to your board. 
+Connect everything to the RAMPS 1.4 board [Wiring Diagram](http://reprap.org/mediawiki/images/6/6d/Rampswire14.svg). Then load [Marlin](https://github.com/MarlinFirmware/Marlin) (currently 1.0.2) on to your board. Replaced stock Configuration.h with the example in the Delta folder. Since I'm using the [RepRapDiscount Full Graphic Smart Controller](http://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller) I need to install the [U8glib library](https://bintray.com/olikraus/u8glib/Arduino) to my ardiuno libaries folder. 
+
+Current settings for Marlin and a copy of U8glib have been uploaded to [github](https://github.com/samisuteria/DeltaPrinter)
+
 
 
 
