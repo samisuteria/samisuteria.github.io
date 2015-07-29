@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/samisuteria
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.samisuteria.com
+  * I am samisuteria (https://keybase.io/samisuteria) on keybase.
+  * I have a public key with fingerprint 090B D20D D7AA 191D B8E6  D77C B4F6 9145 9D73 7326
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "090bd20dd7aa191db8e6d77cb4f691459d737326",
+            "host": "keybase.io",
+            "key_id": "b4f691459d737326",
+            "kid": "0101b457d328de43c44085f78c15f2dde3887125abbddc3bc6ab8f5cca5952c02ea20a",
+            "uid": "e6548abd51e626a1e28ce7740727a919",
+            "username": "samisuteria"
+        },
+        "service": {
+            "hostname": "www.samisuteria.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1438206939,
+    "expire_in": 157680000,
+    "prev": "75a57c7f438833666b5148ded6ffa62f92016b9557bccf21668575766eee8085",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.34
+Comment: https://keybase.io/crypto
+
+yMIfAnicbZJ9aI1RHMfvMHIlWhHZmFPKy9yet3PO81zzthKNaeY1b7fz9tw92H2u
+5z53L83U1eQPK1KSkJcM5TVirBXmJc0iGX9YKaJNTbc25aWY8yzKH84/p/P7fb7f
+c37fzsOxw0PhnDe9J3LCc9oyOU/vl6ZDa+8s764H1OV1IFoPtouhzXYSceElPSfh
+gyhQLIVyTeEcE6JaKqemQBxjRg0bWaoBLY51rGsIFIFKNxUopA0lKRFxXFmTh5jD
+ZfU//PahhqIqKjUg5rpmcmHozDAUE9rYZCq0Nc6FbppY1SChlHOmU4YINW3IGIEW
+1JiiCaIpRNqlh+wEgoZJKIeqQBoiqtBMJjA2FKxhYqlWAKaElyBVQtIpUuWk0r7w
+HAIaioBsVDtMBCkEw/yBampqIv+AEeZWSZek5/ouc3dIoNL3k9FA79clhwSCxv5Y
+xaiT4DJQKagWXspxEyCqSpL5TuCtGrqpKcjSrSIgapOOJ2JOQECMTEWu4BpRLS0x
+JBAzbEve1HWEEIWqIfPiyLYJ0mxLU1RELQgxZczWVIRMiKULEkKYMk8QDLcz4YIo
+lM8k8WB2J54gftoToKH93uYRoZxwaGTusOBLhMKjx//9KB3eqJ95Hz4m7unn8p6d
+6actdzvK6wdPFtzKrS0s/LRuy7XZ7YtXt+Z1t99KX388bf2htdvqykBlZ/FR3z3b
+EynOluUWjN03Zsag3/HyyqzQ/R+dr1n+s/L4mt50165dq9ivZf2l50tHReat7NxE
+RfOU9PuSstbpjZfv9lff7plc8P1F3bdHe2ceWAQ+L2y+0Xj1MHO7iidkVqzuudKS
+7Ro/suRz7BJfEL7pVWycenDK3EkVeU1Hl2ZOj/j5JT+/b8n1zJ7s8+yhAdts+H75
+Ye3W8412E2jpe71k9rFxCy42DQy8TT15Z33Jzn+wpaR78FR5X/GReMWG3bTw1UTw
+9fidC91tkzOh+v29vwFwWjAq
+=5u72
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/samisuteria
+
+==================================================================
