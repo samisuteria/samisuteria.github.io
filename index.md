@@ -1,5 +1,5 @@
 ---
-title: samisuteria.com
+title: home
 layout: index
 ---
 

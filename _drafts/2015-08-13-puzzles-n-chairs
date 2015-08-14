@@ -1,0 +1,31 @@
+---
+title: Puzzle: N Chairs Skip Every Other
+layout: post
+---
+
+My friend [Carlos](http://carlosgalban.com) is currently interviewing at various companies 
+
+Original Puzzle: You are in a room with N chairs. The chairs are numbered sequentially from 1 to N.
+
+At some point in time, the person in chair #1 will be asked to leave. The person in chair #2 will be skipped, and the person in chair #3 will be asked to leave. This pattern of skipping one person and asking the next to leave will keep going until there is one person left.
+
+The Assignment
+==============
+
+Write an iOS Objective-C app to determine which chair number the last person is sitting in, given N as input provided by the user. The user should be able to:
+
+  1. Specify N
+  2. Calculate the last person's chair number.
+  3. Specify a new N, and obtain a new answer, and so on.
+
+Please observe the following when designing and implementing the app:
+
+  1. The interface should be simple, clean, and obvious.
+  2. The implementation should adhere to and exhibit your understanding of standard iOS design patterns.
+  3. You're free to be as creative as you like, within the guidelines listed above.
+
+Hint: For N, be sure to try large numbers such as the number of seats in Michigan Stadium (109,901).
+
+Please provide your solution as an Xcode project which compiles and links without warnings, and runs on an iOS simulator.
+
+In addition to the zip file of your solution please state in your email the correct answer when the input is 100 chairs.
