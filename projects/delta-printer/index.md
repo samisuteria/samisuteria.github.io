@@ -12,7 +12,7 @@ This 3D printer is based on the [design](http://www.openbuilds.com/builds/delta-
 ### Hardware
 
 | Qty | Price | Part Name | Vendor |
-|:----|:------|:----------|:-------|
+|:--- |:----- |:--------- |:------ |
 | 3x  | $0.80 | Nylon Lock Nuts - M3 5 Pack | Home Depot |
 | 2x  | $0.75 | Hex Nuts - M3 5 Pack | Home Depot |
 {: class="table table-bordered"}
