@@ -4,11 +4,11 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-8">
-		{{ content }}
+			{{ content }}
 		</div>
 		<div class="col-md-4">
 			<div class="row">
-				<h1>Recent Posts</h1>
+				<h1>recent posts</h1>
 				<ul>
 				  {% for post in site.posts limit: 10 %}
 				    <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_long_string }}</li>
@@ -16,6 +16,16 @@
 				</ul>
 			</div>
 			<div class="row">
+				<h1>stuff i read</h1>
+				<ul>
+					<li><a href="http://clevrcat.com">clevrcat</a></li>
+					<li><a href="http://jasdev.me">jasdev</a></li>
+					<li><a href="https://www.brainpickings.org">brain pickings</a></li>
+					<li><a href="http://xkcd.com">xkcd</a></li>
+					<li><a href="http://questionablecontent.net">qc</a></li>
+					<li><a href="https://www.objc.io/issues/">objc.io</a></li>
+					<li><a href="https://iosdevweekly.com">ios dev weekly</a></li>
+				</ul>
 			</div>
 		</div>
 	</div>
