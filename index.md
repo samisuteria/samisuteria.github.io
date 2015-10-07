@@ -5,6 +5,12 @@ layout: index
 
 # samisuteria
 
-Currently in the process of moving my site to [Github Pages](https://pages.github.com)
 
-<!--Private Repo-->
+
+iOS Dev at [Imgur](http://imgur.com/apps)
+
+I'm a fan of manufacturing - CNC Mills and 3d printers for home use
+
+Playing around with random IoT projects - MSP/ARM/BLE/iOS
+
+[Resume](./static/CurrentResume.pdf)
