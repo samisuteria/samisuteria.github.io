@@ -8,5 +8,3 @@ When going between storyboards/Interface Builder and code - there are some incon
 ![](http://i.imgur.com/54ggnlE.png)
 
 Not really intutive but `Min Spacing For Cells` -> `minimumInteritemSpacing` and `Min Spacing For Lines` -> `minimumLineSpacing`
-
-#LessonLearned
