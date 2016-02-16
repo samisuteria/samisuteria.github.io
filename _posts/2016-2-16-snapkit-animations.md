@@ -7,7 +7,7 @@ SnapKit is pretty awesome for using Auto Layout on iOS but there are some less t
 
 So pretty much it comes down to this - if you already have your view laid out and on screen do this for the animation: 
 
-```
+```swift
 self.leadingConstraint.updateOffset(0)
 
 view.setNeedsLayout()
@@ -19,7 +19,7 @@ UIView.animateWithDuration(0.2, delay: 0, options: [], animations: { () -> Void 
 
 and if you want to layout the view initally and then animate it in one go (like in a view controller's viewDidAppear):
 
-```
+```swift
 var leadingConstraint = Constraint()
 
 view.snp_makeConstraints { (make) -> Void in 

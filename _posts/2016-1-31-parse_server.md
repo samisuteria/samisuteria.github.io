@@ -20,7 +20,7 @@ With Parse's epic [announcement](http://blog.parse.com/announcements/moving-on/)
 - Install Parse Server `npm install parse-server --save`
 - Open app.js and add this: 
 
-{% highlight javascript %}
+```javascript
 var express = require('express');
 var ParseServer = require('parse-server').ParseServer;
 
@@ -45,7 +45,7 @@ var port = process.env.PORT || 9001;
 app.listen(port, function() {
 	console.log('myawesomeserver running on port: ' + port);
 });
-{% endhighlight %}
+```
 
 - Run your new server `node app.js`
 - Check your server is running by going to [localhost:9001](localhost:9001)
