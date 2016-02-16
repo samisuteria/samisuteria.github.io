@@ -18,7 +18,7 @@ cyan      #2aa198  strings, numbers
 green     #859900  operators, other keywords
 */
 
-.highlight pre { color: #586e75; font-size: 10px !important}
+pre.highlight { color: #586e75; font-size: 10px !important}
 .highlight .lineno { color: #93a1a1 } /* Line Numbers */
 .highlight .c { color: #93a1a1 } /* Comment */
 .highlight .err { color: #586e75 } /* Error */
