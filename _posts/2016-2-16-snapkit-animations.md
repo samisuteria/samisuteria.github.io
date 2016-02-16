@@ -22,7 +22,8 @@ and if you want to layout the view initally and then animate it in one go (like 
 ```swift
 var leadingConstraint = Constraint()
 
-view.snp_makeConstraints { (make) -> Void in 
+view.addSubview(someView)
+someView.snp_makeConstraints { (make) -> Void in 
 	make.width.equalTo(view)
 	make.height.equalTo(50)
 	leadingConstraint = make.leading.equalTo(view).offset(view.frame.width).constraint

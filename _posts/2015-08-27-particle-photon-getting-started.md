@@ -11,12 +11,12 @@ Particles [Web IDE](https://build.particle.io/) is pretty slick and you can send
 
 Node and dfu-util are required for this: 
 
-{% highlight bash %}
+```bash
 brew install node
 brew install dfu-util
 npm install -g particle-cli
 particle flash --usb firmware.bin
-{% endhighlight %}
+```
 
 The code is still compiled on Particle's servers (boo) but at least now I can flash locally. 
 

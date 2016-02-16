@@ -64,21 +64,21 @@ app.listen(port, function() {
 - Add/Update Parse Pod currently: `pod 'Parse', '~> 1.12.0'`
 - In your AppDelegate initial Parse with your server settings:
 
-{% highlight swift %}
+```swift
 Parse.initializeWithConfiguration(ParseClientConfiguration(block: { (configuration: ParseMutableClientConfiguration) -> Void in
             configuration.applicationId = "myAppId"
             configuration.clientKey = "someKeyForClients"
             configuration.server = "http://localhost:9001/parse"
 }))
-{% endhighlight %}
+```
 
 - To test in some viewcontroller's viewDidAppear add: 
 
-{% highlight swift %}
+```swift
 let myCar = PFObject(className: "Car")
 myCar["color"] = "green"
 myCar.saveInBackground()
-{% endhighlight %}
+```
 
 - You might get some errors about App Transport Security - its easy to fix [Stackoverflow](http://stackoverflow.com/questions/32631184/the-resource-could-not-be-loaded-because-the-app-transport-security-policy-requi)
 
