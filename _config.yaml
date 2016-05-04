@@ -4,5 +4,4 @@ description: "random thoughts and projects"
 
 # Build settings
 permalink: pretty
-highlighter: pygments
 markdown: kramdown
