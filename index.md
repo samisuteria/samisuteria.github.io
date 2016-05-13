@@ -5,12 +5,8 @@ layout: index
 
 # samisuteria
 
+Comics books, 3D Printing, and iOS.
 
-
-iOS Dev at [Imgur](http://imgur.com/apps)
-
-I'm a fan of manufacturing - CNC Mills and 3d printers for home use
-
-Playing around with random IoT projects - MSP/ARM/BLE/iOS
+Currently iOS Dev @ [Level Money](https://www.levelmoney.com), ex-[Imgur](http://www.imgur.com)
 
 [Resume](./static/CurrentResume.pdf)
