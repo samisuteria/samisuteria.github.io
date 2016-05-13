@@ -7,11 +7,11 @@ layout: default
 
 List of the projects I'm currently working on:
 
-* [Delta 3D Printer](/projects/delta-printer) - Summer 2015 - In Progress
+* [Delta 3D Printer](/projects/delta-printer) - May 2016 - In Progress
 
 Projects I did at Texas Tech:
 
-* [CNC Milling Machine](/projects/cnc-milling-machine) - Fall 2014 - In Progress
+* [CNC Milling Machine](/projects/cnc-milling-machine) - Fall 2014 - Report In Progress
 * [PLL Local Oscillator](/comingsoon) - Summer 2014 - Coming Soon
 * [BCD Multiplier](/projects/bcd-multiplier-verilog) - Summer 2014
 * [Sound Reactive LEDs](/projects/sound-reactive-led-stick) - Spring 2014
