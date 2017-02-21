@@ -15,4 +15,4 @@ Currently iOS/IoT Engineer @ [Depict](http://www.depict.com)
 - [Imgur](https://itunes.apple.com/us/app/imgur-awesome-images-gifs/id639881495)
 - [SDG](https://itunes.apple.com/us/app/window-glass-design-mobile/id1086885696)
 
-[Resume](./static/CurrentResume.pdf)
+[Resume](./static/Current.pdf)
