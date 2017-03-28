@@ -20,3 +20,7 @@ These sizes were all the "default" settings on iOS when resetting a simulator.
 | .caption1 | SFUIText | normal | normal | 12 |
 | .caption2 | SFUIText | normal | normal | 11 |
 {: class="table table-bordered"}
+
+So lets say your main `title` style calls for a font of size 40 but you want it to scale with the user's preferred sizes - you could just take `preferredFont(forTextStyle: .title3).pointSize` and multiple it by 2.
+
+Make your designer happy and make your users happy all while being accessible. 
